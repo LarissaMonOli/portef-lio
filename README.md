@@ -5,7 +5,7 @@
 <head>
 <meta charset=”UTF-8”>
 
-<meta gabriel=”viewport” content=”width=device-width, initial-
+<meta Larissa=”viewport” content=”width=device-width, initial-
 scale=1.0”>
 
 <title>Document</title>
@@ -44,7 +44,7 @@ usando HTML, CSS e JavaScript.
 da Fernanda” srcset=””>
 
 <img src=”img/avatar-perfil.png” class=”rounded-circle” widht= “150”
-height= “150” alt=”avatar da Fernanda” srcset=””>
+height= “150” alt=”avatar da larissa” srcset=””>
 
 <p class=”lead”>Eu sou Fernanda_</p>
 
