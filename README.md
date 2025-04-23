@@ -41,12 +41,12 @@ usando HTML, CSS e JavaScript.
 <header class=”container text-center”>
 
 <img src=”img/avatar-perfil.png” class=”rounded-circle” alt=”avatar
-da Fernanda” srcset=””>
+da Larissa” srcset=””>
 
 <img src=”img/avatar-perfil.png” class=”rounded-circle” widht= “150”
 height= “150” alt=”avatar da larissa” srcset=””>
 
-<p class=”lead”>Eu sou Fernanda_</p>
+<p class=”lead”>Eu sou Larissa_</p>
 
 class=”badge text-bg-secondary”
 
@@ -181,17 +181,16 @@ Projeto</button>
 
 </div>
 
-<p> © Copyright 2024, produzido por Fernanda Maschetti </p>
+<p> © Copyright 2024, produzido por Larissa Monteiro </p>
 
 <footer class=”container py-5”>
 
 
-<p class=”my-5”> © Copyright 2024, produzido por Fernanda
-Maschetti </p>
+<p class=”my-5”> © Copyright 2024, produzido por Larissa Monteiro </p>
 
 
 <p class=”my-5 text-center”> © Copyright 2024, produzido por
-Fernanda Maschetti </p>
+Larissa Monteiro </p>
 
 @import url (‘https://fonts.googleapis.com/
 css2family=Chakra+Petch:ital,wght@0,300;0,400;0,500;
@@ -202,18 +201,10 @@ css2family=Chakra+Petch:ital,wght@0,300;0,400;0,500;
 
 
 :root {
---cor-principal: ;
---cor-secundaria: ;
---cor-destaque: ;
-}
-
-:root {
 --cor-principal: #6E859F;
 --cor-secundaria: #284260;
 --cor-destaque: #C92BFC;
 }
-
-
 body {
 }
 
